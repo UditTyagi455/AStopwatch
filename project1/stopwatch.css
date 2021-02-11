@@ -40,7 +40,7 @@ list :last-child{margin-bottom: 25px;}
     position: relative;
     /* display: flex; */
     background: linear-gradient(to right bottom,rgba(255,255,255,0.2),rgba(255,255,255,0.3) );
-    height: 50vh;
+    height: 53vh;
     border-radius: 15px;
     
 }
