@@ -53,7 +53,7 @@ document.getElementById("rt").disabled = true;
                      count=0;
                  }  
                 
-             },10);
+             },100);
             s.innerHTML ="Stop";
             document.getElementById("r").disabled = true;
             document.getElementById("rt").disabled = false;
